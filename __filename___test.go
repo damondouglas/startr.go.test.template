@@ -4,6 +4,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"os"
+	"github.com/jmcvetta/randutil"
 )
 
 func Setup() {
