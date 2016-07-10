@@ -4,6 +4,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"os"
+	"log"
 	"github.com/jmcvetta/randutil"
 )
 
